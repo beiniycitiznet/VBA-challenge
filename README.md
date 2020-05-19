@@ -4,6 +4,7 @@
 
 Use VBA scripting to analyze real stock market data.
 
+<img src="stockmarket.jpg">
 
 ## Instructions
 
